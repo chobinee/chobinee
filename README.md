@@ -25,5 +25,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chobinee&show_icons=true&theme=dracula)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqls991213)](https://solved.ac/tnqls991213)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobinee&theme=dracula)](https://github.com/chobinee/github-readme-stats)

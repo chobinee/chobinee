@@ -1,23 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20예비%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchobinee&count_bg=%23FFB1B1&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**chobinee/chobinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 💻 Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
+![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=white)
+![SpringBoot](http://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](http://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=grey)
+![Oracle](http://img.shields.io/badge/-Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white)
+![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
+
+#### 👀 About me 🥴
+✔️ 명지대학교 융합소프트웨어학부 응용소프트웨어 전공 (2023년 2월 졸업 예정)
+
+✔️ 개발에 대한 적성과 열정을 갖춘 예비 개발자
+
+![Instagram](http://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chob._.nee)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chobinee&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobinee)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobinee&theme=dracula)](https://github.com/chobinee/github-readme-stats)

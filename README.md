@@ -1,4 +1,5 @@
-### 개발이 제일 즐거운 예비 개발자입니다 😄
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20예비%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
+
 
 <!--
 **chobinee/chobinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +19,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chobinee&show_icons=true&theme=dracula)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobinee)](https://github.com/anuraghazra/github-readme-stats)
 

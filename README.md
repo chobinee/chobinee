@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20예비%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20예비%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
 
 
 <!--

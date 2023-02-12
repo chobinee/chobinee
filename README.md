@@ -14,9 +14,9 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 
 #### 👀 About me 🥴
-✔️ 명지대학교 융합소프트웨어학부 응용소프트웨어 전공 (2023년 2월 졸업 예정)
+✔️ 명지대학교 융합소프트웨어학부 응용소프트웨어 전공
 
-✔️ 개발에 대한 적성과 열정을 갖춘 예비 개발자
+✔️ 개발에 대한 적성과 열정을 갖춘 개발자
 
 ![Instagram](http://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/chob._.nee)
 

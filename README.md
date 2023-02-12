@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20예비%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Go%20to%20the%20Milkyway&desc=개발이%20제일%20즐거운%20개발자입니다😄&fontSize=90&animation=twinkling&descAlignY=80&customColorList=0,1,1,1,1,1)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchobinee&count_bg=%23FFB1B1&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

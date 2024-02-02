@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchobinee&count_bg=%23FFB1B1&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![42seoul](https://camo.githubusercontent.com/cee0f6db01efc6d17ab63bcf41adeffac14faa26da4183575c90c276dfc38604/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d343273656f756c2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d3432266c696e6b3d68747470733a2f2f70726f66696c652e696e7472612e34322e66722f75736572732f676b776f6e)
-
 #### 💻 Skills 💻
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
